@@ -1,3 +1,6 @@
 # Livro de receitas :woman_cook:
 
-Hello ! Welcome to 
+### Olá ! Bem vindo a esse livro de receitas
+
+- Strogonoff de frango
+
