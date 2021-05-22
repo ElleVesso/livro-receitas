@@ -4,3 +4,5 @@
 
 - Strogonoff de frango
 
+- Purê de batata
+
